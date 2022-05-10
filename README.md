@@ -1,2 +1,2 @@
 # shareRevit
-publicly accessible container for information about Revit
+publicly accessible container with information about Revit
